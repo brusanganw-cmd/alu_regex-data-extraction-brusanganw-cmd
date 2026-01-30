@@ -1,0 +1,15 @@
+User data received:
+Email: alice.wonder@gmail.com
+Email: bad<script>@evil.com
+
+Website links:
+https://example.com
+javascript:alert(1)
+
+Contact numbers:
+078 845-0490
+123-456-7890
+
+Payment info:
+Card: 1234 5678 9012 3456
+Card: 1234-0000-0000-0000<script>

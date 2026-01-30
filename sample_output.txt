@@ -1,0 +1,15 @@
+Extracted Data:
+
+Emails:
+  - alice.wonder@gmail.com
+
+Urls:
+  - https://example.com
+
+Phones:
+  - 078 845-0490
+  - 123-456-7890
+
+Credit_cards:
+  - **** **** **** 3456
+  - **** **** **** 0000
